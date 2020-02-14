@@ -1,8 +1,8 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "name": "gururaj",
+    "role": "student and learning programming",
+    "linkedinId":"",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
@@ -12,8 +12,8 @@ let resumeData = {
           "className":"fa fa-linkedin"
         },
         {
-          "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "name":"gururaj",
+          "url":"http://github.com/gururajpalled",
           "className":"fa fa-github"
         },
         {
@@ -24,13 +24,13 @@ let resumeData = {
       ],
     "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://github.com/gururajpalled",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
+        "UniversityName":"kud university",
         "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "MonthOfPassing":"jun 2021",
+        "YearOfPassing":"2021",
         "Achievements":"Some Achievements"
       },
       {
@@ -43,7 +43,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
+        "CompanyName":"some company",
         "specialization":"Some specialization",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
@@ -60,13 +60,13 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"c"
       },
       {
-        "skillname":"CSS"
+        "skillname":"cpp"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"java"
       }
     ],
     "portfolio":[
